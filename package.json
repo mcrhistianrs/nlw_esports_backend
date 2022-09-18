@@ -1,0 +1,16 @@
+{
+  "name": "nlw_esports_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "https://github.com/mcrhistianrs/nlw_esports_backend.git",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
